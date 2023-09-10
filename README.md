@@ -13,12 +13,15 @@ I am a Python professional specializing in data science, machine learning, deep 
 - Regression Modeling: Predicting real-world phenomena with statistical rigor.
 
 📈 **Collaboration and Learning:**
+
 I'm open to collaboration, knowledge-sharing, and exploring new opportunities in the fields of data science and artificial intelligence. Connect with me if you're interested in working together on impactful projects or discussing the latest trends and innovations in our field.
 
 🔍 **Continual Growth:**
+
 I'm committed to staying at the forefront of technology and continuously improving my skills. I believe in the power of data and AI to solve real-world challenges and drive progress.
 
 🌐 **Find Me Online:**
+
 Feel free to explore my GitHub repositories to see my projects and contributions. You can also reach out to me via email at tahirakanwal2016@gmail.com  for professional inquiries.
 
 ---
