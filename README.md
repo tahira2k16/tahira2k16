@@ -1,6 +1,7 @@
 **Welcome to My GitHub Profile!**
 
 👨‍💻 **Profile Overview:**
+
 I am a Python professional specializing in data science, machine learning, deep learning, image processing, and computer vision. My expertise extends to medical image analysis, utilizing frameworks like PyTorch and Keras to develop convolutional neural networks (CNNs) and deep neural networks (DNNs). My work also encompasses data analytics and regression projects.
 
 **Key Areas of Focus:**
