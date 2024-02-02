@@ -2,7 +2,8 @@
 
 👨‍💻 **Profile Overview:**
 
-I am a Python professional specializing in data science, machine learning, deep learning, image processing, and computer vision. My expertise extends to medical image analysis, utilizing frameworks like PyTorch and Keras to develop convolutional neural networks (CNNs) and deep neural networks (DNNs). My work also encompasses data analytics and regression projects.
+AI Engineer with expertise in machine learning, deep learning, as well as proficiency in image processing and computer vision.
+My expertise extends to medical image analysis, utilizing frameworks like PyTorch and Keras to develop convolutional neural networks (CNNs) and deep neural networks (DNNs). My work also encompasses data analytics and regression projects.
 
 **Key Areas of Focus:**
 - Data Science: Leveraging Python to extract insights from complex datasets.
